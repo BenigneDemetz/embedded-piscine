@@ -1,0 +1,1 @@
+Decouverte de la programmation bare metal sur une Atmega328p. Decouverte de la communication I2C, SPI, lecture de capteurs (potentiometre, capteur de temperature, ...), affichage sur des leds, leds RGB, affichage 7 segments a 4 chiffres.
